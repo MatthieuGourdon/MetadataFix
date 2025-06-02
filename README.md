@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed on your system:
 
 Follow these steps to set up the Python environment for the script:
 
-1.  **Clone or Download the Script**:
+1.  **Clone the Script**:
     ```bash
     git clone git@github.com:MatthieuGourdon/MetadataFix.git
     cd MetadataFix
